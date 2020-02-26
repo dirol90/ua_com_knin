@@ -1,0 +1,4 @@
+storePassword=Qwerty123!
+keyPassword=Qwerty123!
+keyAlias=key
+storeFile="....(YOUR PATH TO KEY FILE)....\\FlutterProjects\\ua_com_knin\\key\\key.jks"
